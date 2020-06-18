@@ -1,0 +1,14 @@
+{
+		"name": "Nemo Doceria", 
+    "email": "nemo@doces.com",
+    "whatsapp":"009999999",
+    "latitude":-453633.1,
+    "longitude":-23.4434,
+    "city":"Brasilia",
+    "uf":"DF",
+    "items": [
+			1,
+			2,
+			5
+		]
+} 
